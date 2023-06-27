@@ -12,7 +12,7 @@
 # 
 set -e
 
-# Call OpenAI API with the given settings to verify everythin is in order
+# Call OpenAI API with the given settings to verify everything is in order
 validateSettings()
 {
     echo -n "*** Testing Open AI access... "
